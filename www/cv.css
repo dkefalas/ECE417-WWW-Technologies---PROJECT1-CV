@@ -1,0 +1,93 @@
+body {
+    /*background-color: lightblue;*/
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+}
+
+body .sidebar .container-personal-info .container-links .list-unstyled-contact-list .fa{
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-decoration: none;
+    align-items: center;
+}
+body .sidebar .container-name {
+    height: 400px;
+}
+body .sidebar .container-personal-info .container-links .list-unstyled-contact-list li{
+    text-align:center;
+    list-style-type: none;
+    display: inline;
+    /*background-color: #333333;*/
+    
+}
+body .sidebar {
+    background-color: rgb(44, 168, 168);
+    /*border-radius: 25px;*/
+    /*margin-left: 30px;*/
+    width: 450px;
+    color:rgb(255,255,255)
+}
+
+
+body .sidebar .container-personal-info .container-name{
+    background-color: rgb(22, 85, 85);
+    /*border-radius: 25px;*/
+    text-align: center;
+}
+
+body .sidebar .container-personal-info .container-name .img-circle{
+    height:auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+body .sidebar .container-personal-info .container .item .school{
+    opacity: 0.9;    
+}
+body .sidebar .container-personal-info .container .item .year{
+    opacity: 0.9;    
+}
+
+body .sidebar .container-personal-info .container .item .grade{
+    opacity: 0.9;    
+}
+
+body .sidebar .container-personal-info .unstyle-list {
+    list-style-position: inherit;
+    list-style-type: none;
+}
+
+body .main{
+    padding-left: 10%;
+}
+body .main .container{
+    display: flex;
+}
+body .main .experience .image{
+    width: auto;
+    height:140px;
+    padding-top:15px;
+    padding-right: 30px;
+}
+
+body .main .experience .item .container-work .time{
+    opacity: 0.8;
+    position: right;
+}
+
+body .main .experience .item .container-work .company{
+    opacity: 0.8;
+}
+
+
+body .main .experience .item .container .time{
+    align-items: right;
+}
+
+body .main .skills .container .unstyle-list{
+    list-style-type: none;
+    display: inline;
+}
