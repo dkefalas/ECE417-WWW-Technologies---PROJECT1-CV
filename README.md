@@ -6,4 +6,4 @@ My first website created for ECE417-WWW-Technologies using html, css and bootstr
 
 Dimitris Kefalas 2533
 
-#http://inf-server.inf.uth.gr/~dkefalas/index.html
+http://inf-server.inf.uth.gr/~dkefalas/index.html
